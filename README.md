@@ -23,7 +23,7 @@ Many other members of the Altium Designer community have also rendered invaluabl
 
 
 # My Must-Have Scripts
-These are my must-have scripts. I have contributed to nearly all of these _because_ they were so useful to me that I wanted to enhance them even more, and pay back some of the help they gave.
+These are my must-have scripts. For scripts that weren't created by me, I have contributed to them _because_ they were so useful to me that I wanted to enhance them even more, and pay back some of the help they gave.
 
 ## [Distribute](https://github.com/Altium-Designer-addons/scripts-libraries/tree/master/Scripts%20-%20PCB/Distribute)
 Has GUI. This script evenly distributes parallel tracks by their pitch or their clearances. It can also set arbitrary pitch or clearance and center tracks between pads or vias.
