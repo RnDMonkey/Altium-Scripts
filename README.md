@@ -57,6 +57,9 @@ These are scripts that I originally created to address specific needs at work or
 ## [AssemblyTextPrep](https://github.com/Altium-Designer-addons/scripts-libraries/tree/master/Scripts%20-%20PCB/AssemblyTextPrep)
 Has GUI. This script is a utility tool to help with positioning and sizing .Designator special strings in a PCB document.
 
+## [PCBObjectInspector](https://github.com/Altium-Designer-addons/scripts-libraries/tree/master/Scripts%20-%20PCB/PCBObjectInspector)
+No GUI. Select items in a PcbDoc and run `_Inspect` to inspect the properties of selected PcbDoc items.
+
 ## [PolygonBenchmark](https://github.com/Altium-Designer-addons/scripts-libraries/tree/master/Scripts%20-%20PCB/PolygonBenchmark)
 No GUI. This script is a utility tool to benchmark the relative repour times of the polygons on a .PcbDoc.
 
