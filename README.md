@@ -58,6 +58,8 @@ These are scripts that I originally created to address specific needs at work or
 Has GUI. This script is a utility tool to help with positioning and sizing .Designator special strings in a PCB document.
 
 ## [PCBObjectInspector](https://github.com/Altium-Designer-addons/scripts-libraries/tree/master/Scripts%20-%20PCB/PCBObjectInspector)
+* _My go-to script for debugging_
+
 No GUI. Select items in a PcbDoc and run `_Inspect` to inspect the underlying properties of selected items.
 
 ## [PolygonBenchmark](https://github.com/Altium-Designer-addons/scripts-libraries/tree/master/Scripts%20-%20PCB/PolygonBenchmark)
