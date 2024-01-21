@@ -1,5 +1,8 @@
 # Altium Designer Scripts
-This is a list of my most-used Altium Designer scripts with a brief comment on each. 
+This is a list of my most-used Altium Designer scripts with a brief comment on each.\
+\
+Cheers!\
+Ryan Rutledge, CID+
 
 # Credits
 I owe many thanks to other script writers who have contributed to the Altium-Designer-addons script repo. Special thanks to 
